@@ -3,7 +3,7 @@
 Selamat datang di profil GitHub saya! Saya seorang pelajar di sebuah sekolah yang ada di ranah minang. Saya sangat tertarik dengan coding yang tentu berhubungan dengan logiga dan algoritma karena saya pecinta pelajaran matematika.
 
 ## 🔭 Apa yang sedang saya kerjakan?
-- Mengembangkan program-program sederhana yang membantu segala aspek software da hardware.
+- Mengembangkan program-program sederhana yang membantu segala aspek software dan hardware.
 - Berkontribusi pada proyek open-source di sekolah.
 
 ## 🌱 Saya sedang belajar
